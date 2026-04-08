@@ -1,3 +1,16 @@
-h1{
-    color: red;
+* {
+  box-sizing: border-box;
+}
+
+.content{
+    max-width: 800px;
+    margin: auto;
+}
+
+.img-logo{
+    max-width: 100%;
+}
+
+.content p, ul, ol{
+    margin: 60px 0;
 }
